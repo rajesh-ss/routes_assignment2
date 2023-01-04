@@ -11,7 +11,6 @@
         Paris-Skopje, Zurich-Amsterdam, Prague-Zurich, Barcelona-Berlin, Kiev-Prague, Skopje-Paris, Amsterdam-Barcelona, Berlin-Kiev, Berlin-Amsterdam.
         You know that your kid started with Kiev
         Write a data structure and algorithm that will give you the route which your son was traveling.</h1>
-
         <h2>Data structure used: Graph</h2>
         <h2>Algorithm used is Depth first search</h2>
         <h2>Explanation: </h2>
